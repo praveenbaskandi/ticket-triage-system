@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "subject": "Unable to reset my password",
+    "description": "I clicked forgot password but never received the reset email."
+  },
+  {
+    "id": 2,
+    "subject": "Charged twice for my subscription",
+    "description": "I see two identical charges on my credit card for this month."
+  },
+  {
+    "id": 3,
+    "subject": "App crashes when I open settings",
+    "description": "The mobile app closes immediately whenever I open the settings screen."
+  },
+  {
+    "id": 4,
+    "subject": "How do I upgrade my plan?",
+    "description": "I want to move from the Basic plan to the Premium plan."
+  },
+  {
+    "id": 5,
+    "subject": "My payment was declined",
+    "description": "I tried paying with my card several times but the payment keeps getting declined."
+  },
+  {
+    "id": 6,
+    "subject": "Account locked",
+    "description": "After several failed login attempts my account is now locked."
+  },
+  {
+    "id": 7,
+    "subject": "Refund not received",
+    "description": "I was told my refund was processed five days ago but I haven't received it."
+  },
+  {
+    "id": 8,
+    "subject": "API returns 500 error",
+    "description": "Our integration started returning HTTP 500 errors after yesterday's deployment."
+  },
+  {
+    "id": 9,
+    "subject": "Where can I download my invoice?",
+    "description": "I need a copy of the invoice for my latest subscription payment."
+  },
+  {
+    "id": 10,
+    "subject": "Change email address",
+    "description": "I want to change the email address associated with my account."
+  },
+  {
+    "id": 11,
+    "subject": "Unexpected charge on my account",
+    "description": "There is a charge on my account that I don't recognize."
+  },
+  {
+    "id": 12,
+    "subject": "Slow application performance",
+    "description": "The application has become extremely slow when loading the dashboard."
+  },
+  {
+    "id": 13,
+    "subject": "Cannot access premium features",
+    "description": "I upgraded yesterday but premium features are still unavailable."
+  },
+  {
+    "id": 14,
+    "subject": "Need help understanding billing",
+    "description": "I don't understand why my monthly bill increased this month."
+  },
+  {
+    "id": 15,
+    "subject": "Login verification code not arriving",
+    "description": "I requested a verification code several times but nothing arrives."
+  },
+  {
+    "id": 16,
+    "subject": "Webhook stopped working",
+    "description": "Our webhook endpoint hasn't received events since this morning."
+  },
+  {
+    "id": 17,
+    "subject": "Can I cancel my subscription?",
+    "description": "I would like to cancel my subscription before the next billing cycle."
+  },
+  {
+    "id": 18,
+    "subject": "Mobile app shows incorrect balance",
+    "description": "The balance shown in the mobile app doesn't match the balance on the website."
+  }
+]

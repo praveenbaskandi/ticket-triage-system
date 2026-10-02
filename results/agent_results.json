@@ -1,0 +1,110 @@
+[
+  {
+    "ticket_id": 1,
+    "subject": "Unable to reset my password",
+    "agent_response": "- **Category**: authentication\n- **Confidence**: 0.99\n- **Route**: account_support\n- **Draft Response**:\n  Hello,\n\n  Thank you for reaching out. I understand you are unable to reset your password because you have not received the reset email. \n\n  To help us investigate this for you, could you please confirm the email address associated with your account and check your spam or junk folder in the meantime? \n\n  Once we have this information, our account support team will look into the issue further.\n\n  Best regards,\n  Customer Support",
+    "latency_seconds": 6.13
+  },
+  {
+    "ticket_id": 2,
+    "subject": "Charged twice for my subscription",
+    "agent_response": "Here is the final result for the support ticket triage:\n\n- **Category:** billing\n- **Confidence:** 1.0 (100%)\n- **Route:** billing_team\n- **Draft Response:** \n  > Hello,\n  > \n  > Thank you for reaching out to us, and I apologize for the confusion regarding your recent charges. I understand you are seeing two identical charges on your credit card for this month's subscription, and I would be happy to look into this for you. \n  > \n  > To help me locate your account details quickly, could you please provide the email address associated with your account, along with the dates and amounts of the two charges? \n  > \n  > Once I have this information, I will investigate the billing discrepancy. \n  > \n  > Best regards,\n  > \n  > Customer Support Team",
+    "latency_seconds": 5.83
+  },
+  {
+    "ticket_id": 3,
+    "subject": "App crashes when I open settings",
+    "agent_response": "- **Category:** technical\n- **Confidence:** 0.99\n- **Route:** technical_support\n- **Draft Response:** \nHello,\n\nThank you for reaching out to us, and I am sorry to hear that the app is crashing when you try to open the settings screen. \n\nTo help our technical support team investigate this issue more effectively, could you please let us know which device and operating system version you are currently using, as well as whether your app is updated to the latest version? \n\nWe appreciate your patience and are here to help get this resolved for you.\n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 6.28
+  },
+  {
+    "ticket_id": 4,
+    "subject": "How do I upgrade my plan?",
+    "agent_response": "- Category: subscription\n- Confidence: 0.98\n- Route: sales_and_subscriptions\n- Draft Response: \nHello,\n\nThank you for reaching out. I would be happy to help you upgrade from the Basic plan to the Premium plan. \n\nTo get started, could you please provide the email address associated with your account? Once I have that, I can provide the next steps to complete your upgrade.\n\nBest regards,\nCustomer Support",
+    "latency_seconds": 6.18
+  },
+  {
+    "ticket_id": 5,
+    "subject": "My payment was declined",
+    "agent_response": "- **Category**: billing\n- **Confidence**: 0.99\n- **Route**: billing_team\n- **Draft Response**: \nHello,\n\nThank you for reaching out to us. I understand you are experiencing issues with your card payment being declined, and I would be happy to help look into this for you. \n\nTo help us investigate, could you please confirm the last 4 digits of the card you are using and the exact error message you are seeing, if any? \n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 6.79
+  },
+  {
+    "ticket_id": 6,
+    "subject": "Account locked",
+    "agent_response": "- **Category**: authentication\n- **Confidence**: 0.99\n- **Route**: account_support\n- **Draft Response**: \nHello,\n\nThank you for reaching out to Account Support. I understand your account has been locked following several unsuccessful login attempts. \n\nTo help us securely verify your identity and assist you with unlocking your account, could you please reply with the email address associated with your account? \n\nWe will review your details and be in touch shortly to help you regain access.\n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 5.83
+  },
+  {
+    "ticket_id": 7,
+    "subject": "Refund not received",
+    "agent_response": "- category: billing\n- confidence: 0.99\n- route: billing_team\n- draft response: \nHello,\n\nThank you for reaching out to us. I understand you are concerned about a refund that was recently processed. \n\nTo help our billing team look into this for you, could you please provide your order or account number? Once we have that information, we will investigate the status of your transaction and follow up with you as soon as possible.\n\nBest regards,\n\nCustomer Support Team",
+    "latency_seconds": 5.84
+  },
+  {
+    "ticket_id": 8,
+    "subject": "API returns 500 error",
+    "agent_response": "- **Category:** technical\n- **Confidence:** 0.99\n- **Route:** technical_support\n- **Draft Response:** \nHello,\n\nThank you for contacting Technical Support. I understand you are receiving HTTP 500 errors following yesterday's deployment, and I am here to help. \n\nTo help us investigate this quickly, could you please provide the request payload, any relevant error logs, and the approximate timestamp of when the errors occurred? \n\nWe are looking into this and will follow up as soon as we have more information.\n\nBest regards,  \nTechnical Support Team",
+    "latency_seconds": 5.98
+  },
+  {
+    "ticket_id": 9,
+    "subject": "Where can I download my invoice?",
+    "agent_response": "- **Category**: billing\n- **Confidence**: 0.99\n- **Route**: billing_team\n- **Draft Response**:\nHello,\n\nThank you for contacting our billing support team. \n\nYou can easily download your invoice by logging into your account, navigating to the billing or subscription section, and selecting the download option for your latest payment. \n\nIf you are unable to find it or need further assistance, please reply to this message with your account details, and we will be happy to help you.\n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 5.67
+  },
+  {
+    "ticket_id": 10,
+    "subject": "Change email address",
+    "agent_response": "- **Category:** account\n- **Confidence:** 0.98\n- **Route:** account_support\n- **Draft Response:** \nHello,\n\nThank you for contacting Support. I would be happy to help you update the email address associated with your account. \n\nTo help us get started, could you please reply with your current account details and the new email address you would like to use? \n\nOnce we receive this information, we will review your request and guide you through the next steps.\n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 5.45
+  },
+  {
+    "ticket_id": 11,
+    "subject": "Unexpected charge on my account",
+    "agent_response": "- **Category:** billing\n- **Confidence:** 1.0\n- **Route:** billing_team\n- **Draft Response:** \nHello,\n\nThank you for reaching out to us. I understand you have noticed an unexpected charge on your account, and I would be happy to help look into this for you. \n\nTo help us locate the transaction quickly, could you please provide the date and amount of the charge, as well as the last four digits of the payment method used? \n\nWe are reviewing this with our billing team and will follow up with you as soon as possible.\n\nBest regards,\nCustomer Support",
+    "latency_seconds": 5.59
+  },
+  {
+    "ticket_id": 12,
+    "subject": "Slow application performance",
+    "agent_response": "- Category: technical\n- Confidence: 0.98\n- Route: technical_support\n- Draft Response:\nHello,\n\nThank you for reaching out to Technical Support. I understand you are experiencing slow performance when loading your dashboard, and I apologize for the inconvenience this is causing. \n\nTo help us investigate this issue further, could you please let me know if you are seeing any specific error messages, and whether this happens in multiple browsers or devices? \n\nWe are looking into this and will follow up with you as soon as we have more information. \n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 6.94
+  },
+  {
+    "ticket_id": 13,
+    "subject": "Cannot access premium features",
+    "agent_response": "**Category:** subscription\n**Confidence:** 0.95\n**Route:** sales_and_subscriptions\n**Draft Response:**\nHello,\n\nThank you for reaching out, and congratulations on upgrading your account! I understand you are eager to start using your premium features. \n\nTo help us look into this for you, could you please provide the email address associated with your account and a screenshot of your upgrade receipt, if available? \n\nWe will investigate what is causing the delay and follow up with you as soon as possible. \n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 5.76
+  },
+  {
+    "ticket_id": 14,
+    "subject": "Need help understanding billing",
+    "agent_response": "- Category: billing\n- Confidence: 1.0\n- Route: billing_team\n- Draft Response: \nHello,\n\nThank you for reaching out to us. I understand you have questions regarding an increase in your monthly bill, and I would be happy to help look into this for you. \n\nTo help me investigate the charges, could you please provide your account number or the email address associated with your account? \n\nOnce I have this information, our billing team will review the details and follow up with you. \n\nBest regards,\n\nCustomer Support Team",
+    "latency_seconds": 6.25
+  },
+  {
+    "ticket_id": 15,
+    "subject": "Login verification code not arriving",
+    "agent_response": "- **Category:** authentication\n- **Confidence:** 0.99\n- **Route:** account_support\n- **Draft Response:** \nHello,\n\nThank you for reaching out. I understand you are not receiving your login verification codes, and I am here to help you get this resolved. \n\nTo help us investigate, could you please confirm the email address or phone number associated with your account, and whether you are experiencing this issue with SMS, email, or both? \n\nBest regards,\nCustomer Support Team",
+    "latency_seconds": 5.53
+  },
+  {
+    "ticket_id": 16,
+    "subject": "Webhook stopped working",
+    "agent_response": "- **Category**: technical\n- **Confidence**: 0.95\n- **Route**: technical_support\n- **Draft Response**:\n  Hello,\n\n  Thank you for reaching out to Technical Support. I understand your webhook endpoint has not been receiving events since this morning. \n\n  To help us investigate this issue, could you please provide the specific webhook URL and any relevant error logs or request IDs you are seeing on your end? \n\n  We are looking into this and will follow up with you as soon as we have more information.\n\n  Best regards,\n\n  Customer Support Team",
+    "latency_seconds": 6.15
+  },
+  {
+    "ticket_id": 17,
+    "subject": "Can I cancel my subscription?",
+    "agent_response": "- **Category:** subscription\n- **Confidence:** 0.98\n- **Route:** sales_and_subscriptions\n- **Draft Response:** \nHello,\n\nThank you for reaching out to us. I would be happy to help you with your request to cancel your subscription. \n\nTo help me locate your account and process this for you, could you please provide the email address associated with your subscription? \n\nOnce I have this information, I will review your account and guide you through the next steps. \n\nBest regards,\nCustomer Support",
+    "latency_seconds": 6.61
+  },
+  {
+    "ticket_id": 18,
+    "subject": "Mobile app shows incorrect balance",
+    "agent_response": "- **Category:** technical\n- **Confidence:** 0.95\n- **Route:** technical_support\n- **Draft Response:** \nHello,\n\nThank you for contacting us. I understand the balance shown in your mobile app does not match the amount on our website, and I would be happy to help look into this for you. \n\nTo help us investigate, could you please confirm the device type and operating system you are using, and whether you have tried logging out and back in? \n\nBest regards,\n\nCustomer Support Team",
+    "latency_seconds": 6.32
+  }
+]

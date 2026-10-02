@@ -1,0 +1,146 @@
+[
+  {
+    "ticket_id": 1,
+    "subject": "Unable to reset my password",
+    "category": "authentication",
+    "confidence": 0.99,
+    "route": "account_support",
+    "draft": "Hello,\n\nThank you for reaching out to Account Support. I understand you are having trouble receiving your password reset email. \n\nTo help me look into this for you, could you please confirm the email address associated with your account? Once I have this information, I will investigate the issue and guide you through the next steps.\n\nBest regards,\n\nCustomer Support"
+  },
+  {
+    "ticket_id": 2,
+    "subject": "Charged twice for my subscription",
+    "category": "billing",
+    "confidence": 1.0,
+    "route": "billing_team",
+    "draft": "Hello,\n\nThank you for reaching out to us, and I apologize for the confusion regarding your recent charges. I understand you are seeing two identical charges for your subscription this month, and I would be happy to look into this for you. \n\nTo help me locate your account quickly, could you please reply with the email address associated with your subscription and the exact dates and amounts of the charges? \n\nOnce I have this information, our billing team will investigate the issue further. \n\nBest regards,\n\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 3,
+    "subject": "App crashes when I open settings",
+    "category": "technical",
+    "confidence": 0.99,
+    "route": "technical_support",
+    "draft": "Hello,\n\nThank you for reaching out to us. I'm sorry to hear that the mobile app is crashing when you try to open the settings screen. \n\nTo help our technical support team investigate this issue, could you please let us know which device model and operating system version you are using? If possible, please also let us know the current version of the app installed on your device. \n\nWe appreciate your patience and look forward to helping you resolve this.\n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 4,
+    "subject": "How do I upgrade my plan?",
+    "category": "subscription",
+    "confidence": 0.98,
+    "route": "sales_and_subscriptions",
+    "draft": "Hello,\n\nThank you for contacting us about upgrading your subscription. We would be happy to help you transition from the Basic plan to the Premium plan. \n\nTo get started, could you please reply with the email address associated with your account? Once we have that, we will provide you with the next steps to complete your upgrade.\n\nBest regards,\n\nCustomer Support"
+  },
+  {
+    "ticket_id": 5,
+    "subject": "My payment was declined",
+    "category": "billing",
+    "confidence": 1.0,
+    "route": "billing_team",
+    "draft": "Hello,\n\nThank you for contacting us. I understand you are having trouble processing your payment, and I would be happy to help look into this for you. \n\nTo help us investigate, could you please confirm the last four digits of the card you are using and whether you received a specific error message? \n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 6,
+    "subject": "Account locked",
+    "category": "authentication",
+    "confidence": 0.99,
+    "route": "account_support",
+    "draft": "Hello,\n\nThank you for reaching out. I understand your account has been locked following several failed login attempts, and I would be happy to help you get this resolved. \n\nTo help us securely verify your identity and assist you further, could you please reply with the email address associated with your account? \n\nBest regards,\nCustomer Support"
+  },
+  {
+    "ticket_id": 7,
+    "subject": "Refund not received",
+    "category": "billing",
+    "confidence": 0.99,
+    "route": "billing_team",
+    "draft": "Hello,\n\nThank you for reaching out to us. I understand you are concerned about a refund that was recently processed, and I would be happy to look into this for you. \n\nTo help me locate your transaction and investigate the status of your refund, could you please provide your order or account number? \n\nOnce I have this information, I will review the details and follow up with you as soon as possible. \n\nBest regards,\n\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 8,
+    "subject": "API returns 500 error",
+    "category": "technical",
+    "confidence": 0.98,
+    "route": "technical_support",
+    "draft": "Hello,\n\nThank you for reaching out to Technical Support. I understand that your integration has been returning HTTP 500 errors since yesterday's deployment, and I am sorry for the disruption this is causing. \n\nTo help us investigate this quickly, could you please provide any relevant error logs, request IDs, or specific API endpoints affected? \n\nOur team is reviewing the issue, and we will follow up with you as soon as we have more information. \n\nBest regards,\nCustomer Support"
+  },
+  {
+    "ticket_id": 10,
+    "subject": "Change email address",
+    "category": "account",
+    "confidence": 0.98,
+    "route": "account_support",
+    "draft": "Hello,\n\nThank you for contacting Account Support. I would be happy to help you update the email address associated with your account. \n\nTo help us get started, could you please reply with your current account username and the new email address you would like to use? \n\nOnce we have this information, we will guide you through the next steps.\n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 11,
+    "subject": "Unexpected charge on my account",
+    "category": "billing",
+    "confidence": 1.0,
+    "route": "billing_team",
+    "draft": "Hello,\n\nThank you for reaching out to us. I understand you have noticed an unexpected charge on your account, and I would be happy to help look into this for you. \n\nTo help us locate the transaction quickly, could you please provide the date and amount of the charge, as well as the last four digits of the payment method used? \n\nWe are reviewing your account details and will follow up with you as soon as more information is available. \n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 12,
+    "subject": "Slow application performance",
+    "category": "technical",
+    "confidence": 0.98,
+    "route": "technical_support",
+    "draft": "Hello,\n\nThank you for reaching out to Technical Support. I understand you are experiencing slow loading times when accessing your dashboard, and I apologize for the inconvenience this is causing. \n\nTo help us investigate this further, could you please let us know if you are seeing any specific error messages, and whether this issue occurs across different browsers or devices? \n\nWe are looking into this and will follow up with you as soon as we have more information. \n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 13,
+    "subject": "Cannot access premium features",
+    "category": "subscription",
+    "confidence": 0.95,
+    "route": "sales_and_subscriptions",
+    "draft": "Hello,\n\nThank you for reaching out, and congratulations on your upgrade! I understand you are eager to access your premium features. \n\nTo help us look into this for you, could you please confirm the email address associated with your account and provide the receipt or order number from your upgrade yesterday? \n\nOnce we have this information, our team will investigate the status of your subscription right away. \n\nBest regards,\n\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 14,
+    "subject": "Need help understanding billing",
+    "category": "billing",
+    "confidence": 1.0,
+    "route": "billing_team",
+    "draft": "Hello,\n\nThank you for contacting us regarding your recent billing increase. I understand how important it is to have clear and transparent charges on your account, and I would be happy to look into this for you. \n\nTo help me investigate, could you please provide your account number and the billing period in question? Once I have this information, I will review the details and follow up with you.\n\nBest regards,\n\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 15,
+    "subject": "Login verification code not arriving",
+    "category": "authentication",
+    "confidence": 0.99,
+    "route": "account_support",
+    "draft": "Hello,\n\nThank you for reaching out. I understand you are not receiving your login verification code, and I would be happy to help you resolve this issue. \n\nTo help us investigate, could you please confirm the email address or phone number associated with your account, and let us know if you have checked your spam or junk folder? \n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 16,
+    "subject": "Webhook stopped working",
+    "category": "technical",
+    "confidence": 0.95,
+    "route": "technical_support",
+    "draft": "Hello,\n\nThank you for reaching out to Technical Support. I understand you are currently not receiving webhook events. \n\nTo help us investigate this issue, could you please provide the affected webhook URL, along with any relevant error codes or timestamps you may have observed? \n\nOnce we have this information, our team will look into it promptly. \n\nBest regards,\nCustomer Support"
+  },
+  {
+    "ticket_id": 17,
+    "subject": "Can I cancel my subscription?",
+    "category": "subscription",
+    "confidence": 0.98,
+    "route": "sales_and_subscriptions",
+    "draft": "Hello,\n\nThank you for reaching out to us. I would be happy to help you with your subscription cancellation request. \n\nTo locate your account and process this for you, could you please provide the email address associated with your subscription? \n\nOnce we have this information, our team will review your account and guide you through the next steps. \n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 9,
+    "subject": "Where can I download my invoice?",
+    "category": "billing",
+    "confidence": 0.99,
+    "route": "billing_team",
+    "draft": "Hello,\n\nThank you for contacting our support team regarding your subscription invoice. \n\nYou can easily download your invoices by logging into your account, navigating to the Billing or Account Settings section, and selecting the payment history tab. \n\nIf you are unable to locate the specific invoice you need, please reply with your account username or the date of the payment, and our billing team will be happy to assist you further.\n\nBest regards,\nCustomer Support Team"
+  },
+  {
+    "ticket_id": 18,
+    "subject": "Mobile app shows incorrect balance",
+    "category": "technical",
+    "confidence": 0.95,
+    "route": "technical_support",
+    "draft": "Hello,\n\nThank you for reaching out to us. I understand that the balance shown in your mobile app does not match the balance displayed on our website, and I would be happy to help look into this for you. \n\nTo help us investigate, could you please confirm the email address associated with your account and the device type you are using? \n\nBest regards,\n\nCustomer Support Team"
+  }
+]
